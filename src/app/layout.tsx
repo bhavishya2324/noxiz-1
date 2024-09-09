@@ -7,7 +7,8 @@ const font = DM_Sans({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Noxiz",
-  description: "Step into the Future with Noxiz",
+  description: "Are you a business owner and looking for a website? With Noxiz get an amazing website for your business also we help you to get right clients and customer by running Ads on internet. 
+",
 };
 
 export default function RootLayout({
