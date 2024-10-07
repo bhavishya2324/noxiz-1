@@ -17,6 +17,11 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <head>
+
+<meta name="google-adsense-account" content="ca-pub-8701935772112224">
+
+</head>
       <body className={font.className}>
         
       <ThemeProvider
@@ -27,8 +32,7 @@ export default function RootLayout({
           >
             {children}
           </ThemeProvider>
-        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8701935772112224"
-     crossorigin="anonymous"></script>
+      
          </body>
     </html>
   );
