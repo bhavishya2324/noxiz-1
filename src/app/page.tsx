@@ -19,12 +19,17 @@ import { clients, products, textwords } from "@/lib/constants";
 import { CheckIcon, Section } from "lucide-react";
 import Image from "next/image";
 import Link from "next/link";
+import Head from "next/head";
 
 export default function Home() {
   return (
     <main >
   
- 
+       <Head>
+
+<meta name="google-adsense-account" content="ca-pub-8701935772112224">
+
+</Head>
 
 
 
