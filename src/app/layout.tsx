@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { ThemeProvider } from "@/providers/theme-provider";
 import { DM_Sans } from "next/font/google";
 import "./globals.css";
+import Head from "next/head";
 
 const font = DM_Sans({ subsets: ["latin"] });
 
@@ -17,11 +18,11 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <head>
+      <Head>
 
 <meta name="google-adsense-account" content="ca-pub-8701935772112224">
 
-</head>
+</Head>
       <body className={font.className}>
         
       <ThemeProvider
