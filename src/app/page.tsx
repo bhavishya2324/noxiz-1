@@ -260,6 +260,17 @@ export default function Home() {
                   <Link href="/featured">Explore more</Link>
                   </span>
                 </Button>
+
+                  <Button
+                  
+                  
+                  className="p-6 mb-4 mt-[28px] md:mb-0 text-xl  sm:w-fit border-t-2 rounded-full border-[#4D4D4D] bg-[#1F1F1F] hover:bg-white group transition-all flex items-center justify-center gap-4 hover:shadow-xl hover:shadow-neutral-500 duration-500"
+                >
+                  <span className="bg-clip-text text-transparent bg-gradient-to-r from-neutral-500 to-neutral-600  md:text-center font-sans group-hover:bg-gradient-to-r group-hover:from-black goup-hover:to-black">
+                 
+                  <Link href="/stream">WATCH NOW ➡</Link>
+                  </span>
+                </Button>
                
               </div>
               </div>
