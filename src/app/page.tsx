@@ -1,5 +1,5 @@
-import { CardBody, CardContainer, CardItem } from "@/components/global/3d-card";
-import { ContainerScroll } from "@/components/global/container-scroll";
+
+
 import { GoogleGeminiEffectDemo } from "@/components/global/hero-gemini";
 
 import { HeroParallax } from "@/components/global/hero-parallax";
@@ -25,22 +25,7 @@ export default function Home() {
   return (
     <main >
   
-       <head>
-
-<meta name="google-adsense-account" content="ca-pub-8701935772112224">
-   <script
-          async
-          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
-          crossOrigin="anonymous"
-        ></script>
-        <script>
-          {`(adsbygoogle = window.adsbygoogle || []).push({
-            google_ad_client: "ca-pub-8701935772112224",
-            enable_page_level_ads: true
-          });`}
-        </script>
-  
-</head>
+    
 
 
 
