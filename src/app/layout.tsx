@@ -21,10 +21,11 @@ export default function RootLayout({
            <head>
 
  <script type='text/javascript' src='//pl26221763.effectiveratecpm.com/37/07/0c/37070c259cca6ecc02a1a613a9c08895.js'></script>
+               <script async="async" data-cfasync="false" src="//pl26221830.effectiveratecpm.com/ca5c1f996f48e8e7396e1a0d5cad3a1a/invoke.js"></script>
   
 </head>
       <body className={font.className}>
-        <script async="async" data-cfasync="false" src="//pl26221830.effectiveratecpm.com/ca5c1f996f48e8e7396e1a0d5cad3a1a/invoke.js"></script>
+      
 <div id="container-ca5c1f996f48e8e7396e1a0d5cad3a1a"></div>
         
       <ThemeProvider
